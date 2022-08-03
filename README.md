@@ -6,7 +6,7 @@
 
 ### Connect with Me 📞
 
-<a target="_blank" href="https://www.linkedin.com/in/mohamedelsaraff/">
+<a target="_blank" href="https://www.linkedin.com/in/melsaraff/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
